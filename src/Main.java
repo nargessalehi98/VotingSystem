@@ -74,9 +74,5 @@ public class Main {
         Vote vote1=new Vote(voter,date.toString());
         Vote vote2=new Vote(voter,date.toString());
         System.out.println("\nThis two votes are :"+vote1.equals(vote2));
-        String n="narge sna rges nar ";
-        n.split("narges");
-        System.out.println(n.trim()+".");
-
     }
 }
